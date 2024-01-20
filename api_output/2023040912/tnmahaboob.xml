@@ -1,0 +1,94 @@
+<annotation>
+					<folder>images</folder>
+					<filename>tnmahaboob.jpg</filename>
+					<path>./api_output/2023040912\tnmahaboob.jpg</path>
+					<source>
+						<database>Unknown</database>
+					</source>
+					<size>
+						<width>640</width>
+						<height>480</height>
+						<depth>3</depth>
+					</size>
+					<segmented>0</segmented>
+				
+						<object>
+							<name>face</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>416</xmin>
+								<ymin>148</ymin>
+								<xmax>588</xmax>
+								<ymax>321</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>address</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>56</xmin>
+								<ymin>239</ymin>
+								<xmax>261</xmax>
+								<ymax>285</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>license_number</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>152</xmin>
+								<ymin>144</ymin>
+								<xmax>367</xmax>
+								<ymax>170</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>dob</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>142</xmin>
+								<ymin>339</ymin>
+								<xmax>239</xmax>
+								<ymax>363</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>issue_date</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>475</xmin>
+								<ymin>113</ymin>
+								<xmax>566</xmax>
+								<ymax>140</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>name</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>150</xmin>
+								<ymin>173</ymin>
+								<xmax>365</xmax>
+								<ymax>195</ymax>
+							</bndbox>
+						</object>
+						
+
+</annotation>

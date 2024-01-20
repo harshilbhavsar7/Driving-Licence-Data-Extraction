@@ -1,0 +1,94 @@
+<annotation>
+					<folder>images</folder>
+					<filename>tnbopalan.jpg</filename>
+					<path>./api_output/2023040712\tnbopalan.jpg</path>
+					<source>
+						<database>Unknown</database>
+					</source>
+					<size>
+						<width>700</width>
+						<height>400</height>
+						<depth>3</depth>
+					</size>
+					<segmented>0</segmented>
+				
+						<object>
+							<name>face</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>450</xmin>
+								<ymin>72</ymin>
+								<xmax>634</xmax>
+								<ymax>244</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>dob</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>139</xmin>
+								<ymin>292</ymin>
+								<xmax>245</xmax>
+								<ymax>331</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>address</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>49</xmin>
+								<ymin>196</ymin>
+								<xmax>398</xmax>
+								<ymax>260</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>name</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>141</xmin>
+								<ymin>132</ymin>
+								<xmax>285</xmax>
+								<ymax>156</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>issue_date</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>530</xmin>
+								<ymin>44</ymin>
+								<xmax>636</xmax>
+								<ymax>70</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>license_number</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>145</xmin>
+								<ymin>106</ymin>
+								<xmax>329</xmax>
+								<ymax>133</ymax>
+							</bndbox>
+						</object>
+						
+
+</annotation>

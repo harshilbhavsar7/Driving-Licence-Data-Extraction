@@ -1,0 +1,107 @@
+<annotation>
+					<folder>images</folder>
+					<filename>tnsarava.jpg</filename>
+					<path>./api_output/2023040712\tnsarava.jpg</path>
+					<source>
+						<database>Unknown</database>
+					</source>
+					<size>
+						<width>658</width>
+						<height>447</height>
+						<depth>3</depth>
+					</size>
+					<segmented>0</segmented>
+				
+						<object>
+							<name>face</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>459</xmin>
+								<ymin>83</ymin>
+								<xmax>654</xmax>
+								<ymax>283</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>address</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>32</xmin>
+								<ymin>216</ymin>
+								<xmax>380</xmax>
+								<ymax>287</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>dob</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>130</xmin>
+								<ymin>328</ymin>
+								<xmax>230</xmax>
+								<ymax>354</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>license_number</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>131</xmin>
+								<ymin>121</ymin>
+								<xmax>325</xmax>
+								<ymax>147</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>issue_date</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>550</xmin>
+								<ymin>52</ymin>
+								<xmax>650</xmax>
+								<ymax>77</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>name</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>135</xmin>
+								<ymin>146</ymin>
+								<xmax>379</xmax>
+								<ymax>176</ymax>
+							</bndbox>
+						</object>
+						
+						<object>
+							<name>exp_date</name>
+							<pose>Unspecified</pose>
+							<truncated>0</truncated>
+							<difficult>0</difficult>
+							<bndbox>
+								<xmin>545</xmin>
+								<ymin>53</ymin>
+								<xmax>653</xmax>
+								<ymax>78</ymax>
+							</bndbox>
+						</object>
+						
+
+</annotation>
