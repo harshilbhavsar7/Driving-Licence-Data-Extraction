@@ -1,0 +1,7 @@
+train: /content/final_data_v2/images  
+val: /content/final_data_v2/images
+test:  /content/final_data_v2/images 
+
+# Classes
+nc: 8  # number of classes
+names: ['dob','exp_date','name','address','sex','issue_date','face','license_number']  
